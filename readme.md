@@ -55,7 +55,7 @@ The data was retrived at: 2021-01-24 and the model predicts 30 days ahead.
 
 ![](img/param_traj.png)
 
-![](img/predict.png)
+![](img/predic.png)
 
 
 
