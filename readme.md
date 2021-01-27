@@ -51,11 +51,11 @@ casadi
 ## Results
 The data was retrived at: 2021-01-24 and the model predicts 30 days ahead.
 
-![](SIR.png)
+![](img/SIR.png)
 
-![](param_traj.png)
+![](img/param_traj.png)
 
-![](predict.png)
+![](img/predict.png)
 
 
 
